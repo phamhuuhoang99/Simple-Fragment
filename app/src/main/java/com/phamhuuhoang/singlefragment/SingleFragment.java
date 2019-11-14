@@ -18,7 +18,7 @@ public class SingleFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        myString="Hello everyone from  SimpleFragment";
+        myString="Hello from  SimpleFragment";
 
     }
 
